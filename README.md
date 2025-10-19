@@ -51,13 +51,5 @@ I enjoy working at the intersection of **technology** and **evaluation**, levera
   <a href="mailto:koechbrian039@gmail.com">koechbrian039@gmail.com</a>
 </p>
 
----
 
-<!-- ===== Footer Banner ===== -->
-<p align="center">
-  <img src="https://github.com/543219/AI-Evaluation-Portfolio/blob/main/footer.png?raw=true" width="80%" alt="Footer Image"/>
-</p>
 
-<p align="center" style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
-  “Quality evaluation is the foundation of reliable AI performance.”
-</p>
