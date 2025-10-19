@@ -1,14 +1,3 @@
-<!-- Profile README for GitHub user 543219 -->
-
-<!-- ===== Header Banner ===== -->
-<p align="center">
-  <img src="https://github.com/543219/AI-Evaluation-Portfolio/blob/main/header-banner.png?raw=true" width="100%" alt="Brian Koech Header Banner"/>
-</p>
-
-<!-- ===== Logo ===== -->
-<p align="center">
-  <img src="https://github.com/543219/AI-Evaluation-Portfolio/blob/main/KoechBrianLogo.png?raw=true" width="200" alt="Koech Brian Logo"/>
-</p>
 
 <h1 align="center">Hi, I’m Brian Koech</h1>
 <h3 align="center">Generalist Evaluation Expert | Prompt Designer | Data-Driven Analyst</h3>
