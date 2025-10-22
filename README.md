@@ -35,18 +35,6 @@ I enjoy working at the intersection of **technology** and **evaluation**, levera
 - **Automation with Python** — Scripts for efficient evaluation and reporting.  
 - **HTML Samples** — Front-end layouts used in testing AI instructions.
 
-## Featured Evaluation Projects  
-
-| Project Title | Model(s) | Focus Area | Rating | View Report |
-|----------------|-----------|-------------|----------|--------------|
-| GPT-4 Reasoning Test | GPT-4 | Logical and Mathematical Reasoning | ⭐ 5/5 | [Open](./GPT4_Reasoning_Test.md) |
-| Claude 3 Creative Task | Claude 3 | Creative Writing / Expression | ⭐ 4.8/5 | [Open](./Claude3_Creative_Task.md) |
-| Gemini 1.5 Instruction Test | Gemini 1.5 | Instruction Following | ⭐ 5/5 | [Open](./Gemini_Instruction_Test.md) |
-| Multi-Model Comparison | GPT-4, Claude 3, Gemini 1.5 | Performance Benchmark | ⭐ 4.7/5 | [Open](./MultiModel_Comparison.md) |
-| Prompt Evaluation Log | Multiple Models | Ongoing Evaluation Records | ⭐ 5/5 | [Open](./Prompt_Evaluation_Log.md) |
-
----
-
 ## Currently Learning
 - Building responsive portfolios with GitHub Pages  
 - Automating evaluation logs using Python and Sheets  
